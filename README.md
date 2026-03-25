@@ -30,5 +30,8 @@ Plaintext
 ├── style.css        # Estilização do cabeçalho, cores e fontes
 └── imagens/         # Pasta contendo as fotos (foto1.jpg até foto12.jpg)
 
-✒️ Autor
-Projeto desenvolvido com muito amor por Kaio Lucas.<img src="https://github.com/kaiolucass.png" height="75" width="75"> 💖
+✒️Autor
+
+Projeto desenvolvido com muito amor por Kaio Lucas 💖
+
+<img src="https://github.com/kaiolucass.png" height="75" width="75">
