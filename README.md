@@ -31,5 +31,4 @@ Plaintext
 └── imagens/         # Pasta contendo as fotos (foto1.jpg até foto12.jpg)
 
 ✒️ Autor
-Projeto desenvolvido com muito amor por Kaio. 💖
-| 22250719 | Kaio Lucas | <img src="https://github.com/kaiolucass.png" height="75" width="75"> |
+Projeto desenvolvido com muito amor por Kaio Lucas.<img src="https://github.com/kaiolucass.png" height="75" width="75"> 💖
