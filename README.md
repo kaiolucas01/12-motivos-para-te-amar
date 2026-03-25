@@ -32,4 +32,4 @@ Plaintext
 
 ✒️ Autor
 Projeto desenvolvido com muito amor por Kaio. 💖
-| Autor | Kaio Lucas | <img src="https://github.com/kaiolucas01.png" height="75" width="75"> |
+| 22250719 | Kaio Lucas | <img src="https://github.com/kaiolucass.png" height="75" width="75"> |
